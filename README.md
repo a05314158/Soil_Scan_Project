@@ -15,7 +15,7 @@ SoilSkan - это инновационный проект, который пре
 - TensorFlow 🤖
 ### Установка / Installation:
 1. Клонируйте репозиторий на свой компьютер:/ Clone the repository to your computer:
-git clone https://github.com/yourusername/soilscan.git
+git clone https://github.com/DimaPovarich/Soil_Scan_Project
 2. Перейдите в директорию проекта:
 / Navigate to the project directory:
 
